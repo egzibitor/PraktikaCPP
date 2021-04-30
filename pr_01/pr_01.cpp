@@ -4,7 +4,7 @@
 
 using namespace std;
 /// <summary>
-/// Нарисовать линию
+/// Нарисовать линию b
 /// </summary>
 /// <param name="n">длина линии (в символах)</param>
 /// <returns></returns>
