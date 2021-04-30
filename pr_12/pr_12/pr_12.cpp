@@ -2,7 +2,6 @@
 //
 
 #include "windows.h"
-#include <iostream>
 #include <string.h>
 using namespace std;
 
@@ -15,7 +14,7 @@ public:
     menu() {
         selectedItem = 0;
         items[0]->assign("Pasha");
-        items[1]->assign("Serega");
+        items[1]->assign("Serega Sbril brovi sinu");
         items[2]->assign("Mersov");
         items[3]->assign("Rusakov");
         items[4]->assign("Filatov");
